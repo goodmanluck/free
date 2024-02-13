@@ -1,6 +1,6 @@
 {
-	"author": "Okoye Chiemelie",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Okoye Chiemelie",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
